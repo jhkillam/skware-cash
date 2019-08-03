@@ -4,5 +4,8 @@
 
 The list of transactions still isn't loading!
 
+~~JK: script tags were linking to the wrong .js files
+changed from "../scriptname.js" to "scriptname.js"
+
 *******************************************************
 *******************************************************

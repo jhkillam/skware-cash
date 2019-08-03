@@ -4,5 +4,9 @@
 
 Hey, the list of transactions isn't loading - what gives?!
 
+~~JK: On line 7 of index.js, there was a ; instead of a
+closing ' for the string being assigned to finalHTML
+
 *******************************************************
 *******************************************************
+

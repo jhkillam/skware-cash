@@ -5,5 +5,9 @@
 The "New" button isn't changing to the :hover color when 
 when hovered over
 
+~~JK: The div creating the "new" button had an inline
+style tag which was overriding the :hover color from
+index.css
+
 *******************************************************
 *******************************************************

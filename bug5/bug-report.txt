@@ -4,5 +4,9 @@
 
 There's no styling on the page at all!
 
+~~JK: The index.css stylesheet was being referenced
+as ../index.css, needs to be index.css based on 
+current file structure.
+
 *******************************************************
 *******************************************************

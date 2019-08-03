@@ -5,5 +5,9 @@
 The transactions list is only filtering when I press the
 enter key. I thought it was supposed to filter as I type?
 
+~~JK: Line 34 of index.js was listening for the 'change'
+event instead of the 'input' event. 'Input' reacts 
+immediately upon user input in the text field.
+
 *******************************************************
 *******************************************************

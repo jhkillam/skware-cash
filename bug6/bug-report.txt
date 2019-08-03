@@ -4,5 +4,9 @@
 
 The transaction list isn't showing!
 
+~~JK: The parameter from the function definition on 
+line 9 of index.js was missing. Added 'transaction' 
+back as the parameter
+
 *******************************************************
 *******************************************************

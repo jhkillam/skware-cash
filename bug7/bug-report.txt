@@ -4,5 +4,9 @@
 
 Every row in the transaction list has a weird comma preceding it...
 
+~~JK: On line 21 of index.js, the .join() method did 
+not have a separator indicated in the (), default is
+comma. Changed to ('') so separator is now blank
+
 *******************************************************
 *******************************************************

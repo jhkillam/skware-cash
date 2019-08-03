@@ -4,5 +4,8 @@
 
 The transaction filtering is case sensitive. That's annoying!
 
+~~JK: added .toLowerCase() on the user input field on 
+line 35 of index.js and also on all the fields being 
+searched on lines 37-40 of index.js
 *******************************************************
 *******************************************************
